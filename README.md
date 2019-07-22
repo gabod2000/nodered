@@ -25,3 +25,5 @@ https://pureinfotech.com/setup-network-file-sharing-windows-10/
 ![Image of Yaktocat](https://github.com/niksy111/nodered_gabod2000/blob/master/9.png)
 # Update ip adress or hostname and folder, username and password for SAMBA share
 ![Image of Yaktocat](https://github.com/niksy111/nodered_gabod2000/blob/master/10.png)
+
+#  To test deploy Node RED flow and press button next to timestamp
